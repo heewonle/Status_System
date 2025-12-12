@@ -1,3 +1,0 @@
-C:/Users/lhw45/Downloads/StatusSystem/StatusSystem/out/build/x64-debug/CMakeFiles/StatusSystem.dir
-C:/Users/lhw45/Downloads/StatusSystem/StatusSystem/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/lhw45/Downloads/StatusSystem/StatusSystem/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
